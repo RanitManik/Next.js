@@ -28,12 +28,12 @@ This course provides an in-depth guide to building applications using Next.js v1
 As you work through the course, the code for each project will be organized in its own directory. Below are the live
 links to each project:
 
-| Directory  | Live Link                                                        |
-|------------|------------------------------------------------------------------|
-| /corp      | [https://corp-ranit.vercel.app/](https://corp-ranit.vercel.app/) |
-| /project-2 | [not completed yet]                                              |
-| /project-3 | [not completed yet]                                              |
-| ...        | ...                                                              |
+| Project    | Live Link                                                     |
+|------------|---------------------------------------------------------------|
+| corp       | [corp-ranit.vercel.app](https://corp-ranit.vercel.app/)       |
+| snippet    | [snippet-ranit.vercel.app](https://snippet-ranit.vercel.app/) |
+| /project-3 | [not completed yet]                                           |
+| ...        | ...                                                           |
 
 ## Technologies Used
 
@@ -45,6 +45,7 @@ This repository includes the following technologies:
 - **Next Auth**
 - **NextUI**
 - **TailwindCSS**
+- **TypeScript**
 
 ## Getting Started
 
