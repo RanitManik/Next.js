@@ -45,6 +45,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/RanitManik/Next.js-course.git
    cd Next.js-course
+   cd $PROJECT_NAME
    ```
 
 2. **Install the necessary dependencies:**
