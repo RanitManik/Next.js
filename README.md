@@ -35,7 +35,7 @@ links to each project:
 
 This repository includes the following technologies:
 
-![Technologies Used](https://skillicons.dev/icons?i=next,react,tailwindcss,typescript,nodejs,postgres,npm,webstorm,vercel)
+![Technologies Used](https://skillicons.dev/icons?i=next,react,typescript,tailwindcss,nodejs,postgres,prisma,npm,webstorm,linux,vercel)
 
 ## Getting Started
 
