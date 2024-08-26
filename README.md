@@ -29,13 +29,7 @@ links to each project:
 
 This repository includes the following technologies:
 
-- **Next.js v14**
-- **React**
-- **App Router**
-- **Next Auth**
-- **NextUI**
-- **TailwindCSS**
-- **TypeScript**
+![Technologies Used](https://skillicons.dev/icons?i=next,react,tailwindcss,typescript,nodejs,postgres,npm,webstorm,vercel)
 
 ## Getting Started
 
