@@ -43,6 +43,12 @@ export async function createSnippet(
             };
         }
 
+        if (code.length > 5000) {
+            return {
+                message: `Code must be less than 5000 characters`,
+            };
+        }
+
         const snippet = await db.snippet.create({
             data: {
                 title,
