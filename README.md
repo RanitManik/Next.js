@@ -4,16 +4,6 @@ This repository hosts the source code for the Udemy course **"Next JS: The Compl
 covers the latest version of Next.js (v14) and dives deep into building modern web applications using tools like App
 Router, Next Auth, NextUI, and TailwindCSS.
 
-## Table of Contents
-
-- [Course Overview](#course-overview)
-- [Project Structure & Links](#project-structure--links)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Running the Project](#running-the-project)
-- [Resources](#resources)
-- [License](#license)
-
 ## Course Overview
 
 This course provides an in-depth guide to building applications using Next.js v14. Key topics include:
