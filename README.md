@@ -1,10 +1,10 @@
 # Next.js - The Complete Developer's Guide
 
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Next.js-course)
-![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Next.js-course)
-![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Next.js-course)
-![GitHub License](https://img.shields.io/github/license/RanitManik/Next.js-course)
-![wakatime](https://wakatime.com/badge/github/RanitManik/Next.js-course.svg)
+![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Next.js)
+![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Next.js)
+![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Next.js)
+![GitHub License](https://img.shields.io/github/license/RanitManik/Next.js)
+![wakatime](https://wakatime.com/badge/github/RanitManik/Next.js.svg)
 
 This repository hosts the source code for the Udemy course **"Next JS: The Complete Developer's Guide."** This course
 covers the latest version of Next.js (v14) and dives deep into building modern web applications using tools like App
@@ -43,8 +43,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RanitManik/Next.js-course.git
-   cd Next.js-course
+   git clone https://github.com/RanitManik/Next.js.git
+   cd Next.js
    cd $PROJECT_NAME
    ```
 
