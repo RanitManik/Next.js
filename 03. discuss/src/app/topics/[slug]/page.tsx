@@ -1,7 +1,7 @@
 import React from "react";
 
 function TopicShowPage() {
-    return <div>TopicShowPage</div>;
+    return <div>Topic Show</div>;
 }
 
 export default TopicShowPage;
